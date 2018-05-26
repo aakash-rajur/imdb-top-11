@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 961 961">
+    <defs>
+        <style>
+            .cls-1{fill:#333;stroke:#000;opacity:0.7;}.cls-1,.cls-2,.cls-3{stroke-miterlimit:10;}.cls-2,.cls-3{fill:none;}.cls-2{stroke:#7fffaa;stroke-width:60px;}.cls-3{stroke:#29abe2;stroke-width:70px;}
+        </style>
+    </defs>
+    <title>ratings</title>
+    <g id="dark-background">
+        <circle class="cls-1" cx="480.5" cy="480.5" r="480"/>
+    </g>
+    <g id="rotten-tomatoes">
+        <path class="cls-2"
+              d="M938,512c0,235.27-190.73,426-426,426S86,747.27,86,512,276.73,86,512,86,938,276.73,938,512Z"
+              transform="translate(-31.5 -31.5)"/>
+    </g>
+    <g id="metacritics">
+        <path class="cls-3"
+              d="M873,512c0,199.37-161.63,361-361,361S151,711.37,151,512,312.63,151,512,151,873,312.63,873,512Z"
+              transform="translate(-31.5 -31.5)"/>
+    </g>
+</svg>
