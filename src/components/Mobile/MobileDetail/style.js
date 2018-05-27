@@ -27,12 +27,14 @@ export default {
 	},
 	
 	detail: {
-		overflow: 'auto',
 		zIndex: 2,
 		display: 'grid',
 		gridTemplate: '1fr/1fr',
 		perspective: '1px',
 		height: '90vh',
+		width: '100vw',
+		overflowX:'hidden',
+		overflowY: 'auto',
 		bottom: '100vh',
 		animation: ({state}) => `${
 			state === COLLAPSE ? 'detail-scroll-up' :
